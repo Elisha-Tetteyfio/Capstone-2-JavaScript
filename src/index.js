@@ -1,5 +1,6 @@
 import _ from 'lodash';
 import './style.css';
+import './main.scss';
 
 const addup = () => {
     let a = 2;
